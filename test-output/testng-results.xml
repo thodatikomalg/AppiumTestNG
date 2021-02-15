@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="79" started-at="2018-08-26T23:04:14Z" finished-at="2018-08-26T23:04:14Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="79" started-at="2018-08-26T23:04:14Z" finished-at="2018-08-26T23:04:14Z">
+      <class name="tests.AppTests">
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:tests.AppTests@2d928643]" name="launchApp" is-config="true" duration-ms="70754" started-at="2018-08-26T19:03:03Z" finished-at="2018-08-26T19:04:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="stopProcess()[pri:0, instance:tests.AppTests@2d928643]" name="stopProcess" is-config="true" duration-ms="4234" started-at="2018-08-26T19:04:16Z" finished-at="2018-08-26T19:04:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopProcess -->
+      </class> <!-- tests.AppTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
